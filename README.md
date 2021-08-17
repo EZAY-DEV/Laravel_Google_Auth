@@ -1,7 +1,7 @@
 
 ## Laravel social Auth (Google)
 
-- composer create-project laravel/laravel laravel_google_auth
+- **~~composer create-project laravel/laravel laravel_google_auth~~**
 - composer require laravel/ui 
 - php artisan ui bootstrap --auth
 - npm install
