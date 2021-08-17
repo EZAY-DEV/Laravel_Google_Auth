@@ -13,8 +13,9 @@
 - add 'Socialite' => Laravel\Socialite\Facades\Socialite::class  in aliases array in config/app.php file
 
 #### create new google app 
-Create Google a project : https://console.developers.google.com/projectcreate
-Create Google credentials : https://console.developers.google.com/apis/credentials
+- Create Google a project : https://console.developers.google.com/projectcreate
+
+- Create Google credentials : https://console.developers.google.com/apis/credentials
 
 add client_id and secret in .env file  
 - GOOGLE_CLIENT_ID =
